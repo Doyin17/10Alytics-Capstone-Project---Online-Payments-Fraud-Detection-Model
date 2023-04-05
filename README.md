@@ -1,7 +1,3 @@
-# 10Alytics-Capstone-Project---Online-Payments-Fraud-Detection-Model
-Carried out Data cleaning, EDA, splitting and training of Machine learning Models
-
-
 # 10Alytics Capstone Project- Online Payment Fraud Detection using Machine Learning
 
 
