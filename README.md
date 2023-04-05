@@ -20,6 +20,8 @@ The output of the classification and the Confusion matrix was used to evaluate t
 
 ![type Countplot](https://user-images.githubusercontent.com/129843384/230086918-e706c2da-d4b8-4dc8-9e94-f1c4943f5148.png)
 
+![Fraud Count](https://user-images.githubusercontent.com/129843384/230088526-8bb1c01c-a68a-4053-bf8b-dc9877bc4281.png)
+
 ![heatmap](https://user-images.githubusercontent.com/129843384/230086952-284386a8-ecbe-47cc-80dc-c302f9bd5b8e.png)
 
 ![Confusion Matrix](https://user-images.githubusercontent.com/129843384/230086990-7d11a4e6-2a21-4cca-b4c8-5e7a85b0f6ea.png)
